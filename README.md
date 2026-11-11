@@ -21,6 +21,21 @@ Unity / C# を中心にゲーム開発を行っている、フリーランスの
 - [作品紹介・企画書・スクリーンショット](https://github.com/mitsuruyamaura/test_sample_game)
 - デモ版：作品紹介ページ内に掲載
 
+---
+
+## 🎮 Independent Game Development & Publishing
+
+個人開発者として、オリジナルゲームの企画・設計・プログラム実装から、Steamでの販売・運用まで一貫して担当した経験があります。
+
+**主な経験**
+- オリジナルゲームの企画・ゲームデザイン
+- Unity / C# によるゲーム開発
+- Steamworksへの開発者登録・ストアページ作成
+- ビルド提出・審査対応・リリース
+- 販売開始後の運用・管理
+
+---
+
 ## 💻 Technical Skills
 
 ### Game Development
@@ -134,7 +149,6 @@ Unityのゲーム制作教材や、ゲーム開発に関する技術情報を公
 ページ総数は1200ページ以上、中級・上級者向けの記事も用意しています。
 
 - [i-school](https://i-school.memo.wiki/)
-- [MENTA：Unityオンライン講座](https://menta.work/plan/1198)
 
 ---
 
