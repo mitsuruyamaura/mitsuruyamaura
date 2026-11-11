@@ -31,7 +31,6 @@ Unity / C# を中心にゲーム開発を行っている、フリーランスの
 ### Network / Backend
 - Photon PUN2 / Photon Fusion
 - PlayFab
-- Azure
 - サーバーAPI連携
 - 非同期通信処理
 
@@ -46,8 +45,15 @@ Unity / C# を中心にゲーム開発を行っている、フリーランスの
 - VContainer
 - Git / GitHub
   
-- Github Actions
-- Jenkins
+- Github Actions(CIツール)
+- Jenkins(CIツール)
+
+### AI / Development Support
+- ChatGPT、ChatGPT Codex、Gemini などの生成AIを活用したプログラミング支援
+- コードの設計・実装案の検討、レビュー、リファクタリング
+- 技術調査・トラブルシューティング
+- 企画・ゲームシステムのアイデア整理
+- 開発資料・ドキュメントの作成支援
 
 ※ 上記はこれまでの実務・開発経験で使用してきた技術です。
 
@@ -139,7 +145,7 @@ Unityのゲーム制作教材や、ゲーム開発に関する技術情報を公
 - オンライン機能・通信処理の実装
 - PlayFab などを利用したバックエンド連携
 - 既存ゲームの機能追加・運用・保守
-- 開発チームでのリードエンジニア業務
+- 開発チームでのリードエンジニア業務・レビュアー
 - チーム内のコミュニケーション促進、進捗管理・リスク感知
 - Unity / C# の技術指導・教材制作
 
