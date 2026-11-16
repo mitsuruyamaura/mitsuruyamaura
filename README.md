@@ -19,7 +19,7 @@ Unity / C# を中心にゲーム開発を行っている、フリーランスの
 
 企画・ゲームデザイン・プログラム実装など、個人で開発を進めています。
 
-- [作品紹介・企画書・スクリーンショット](https://github.com/mitsuruyamaura/test_sample_game)
+- [作品紹介・企画書・スクリーンショット](https://github.com/mitsuruyamaura/pumpkin-knight-publisher)
 - デモ版：作品紹介ページ内に掲載
 
 ---
